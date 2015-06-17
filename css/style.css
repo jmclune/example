@@ -1,0 +1,34 @@
+body {
+  line-height: 1.5;
+
+  /* Full Page Background Receipe */
+  background: url('../images/tengen-toppa2.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  font-family: 'Montserrat', sans-serif;
+  color: #F5EDE7;
+
+}
+
+p {
+	font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+h1 {
+	  color: #D0BE69;
+}
+h2 {
+	color: #D6CE76;
+}
+
+.container {
+  width: 500px;
+  margin: 40px;
+  padding: 15px;
+  border-radius: 10px;
+  background: rgba(0,0,0,0.5);
+  text-align: center;
+
+}
